@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-helpdeskdata-dev-37974-authRole",
+      "UnauthRoleArn": "arn:aws:iam::741448929098:role/amplify-helpdeskdata-dev-37974-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::741448929098:role/amplify-helpdeskdata-dev-37974-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-helpdeskdata-dev-37974-deployment",
+      "UnauthRoleName": "amplify-helpdeskdata-dev-37974-unauthRole",
+      "StackName": "amplify-helpdeskdata-dev-37974",
+      "StackId": "arn:aws:cloudformation:eu-north-1:741448929098:stack/amplify-helpdeskdata-dev-37974/ebd9a7d0-a5ad-11ef-8f73-06605d1f9afd",
+      "AmplifyAppId": "d3jg7f4tmiye7m"
+    },
+    "categories": {
+      "api": {
+        "helpdeskdata": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3jg7f4tmiye7m",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
